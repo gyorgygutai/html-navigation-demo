@@ -1,0 +1,13 @@
+body {
+    padding: 2rem;
+    background-color: #fafafa;
+}
+
+.content-placeholder {
+    min-height: 2000px;
+}
+
+#footer-section {
+    padding: 24px 0;
+    border-top: 1px solid #ccc;
+}
